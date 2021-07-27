@@ -16,10 +16,16 @@
     "@nuxtjs/composition-api": "^0.25.2",
     "@vue/apollo-composable": "^4.0.0-alpha.14",
     "core-js": "^3.15.1",
+    "graphql": "^15.5.1",
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
+    "@graphql-codegen/cli": "1.21.7",
+    "@graphql-codegen/introspection": "1.18.2",
+    "@graphql-codegen/typed-document-node": "^1.18.10",
+    "@graphql-codegen/typescript": "1.23.0",
+    "@graphql-codegen/typescript-operations": "^1.18.4",
     "@nuxt/types": "^2.15.7",
     "@nuxt/typescript-build": "^2.1.0",
     "@nuxtjs/eslint-config-typescript": "^6.0.1",
