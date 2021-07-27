@@ -1,0 +1,6 @@
+query getUsers {
+  users(order_by: { id: asc }) {
+    id
+    name
+  }
+}
